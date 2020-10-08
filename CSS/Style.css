@@ -1,0 +1,69 @@
+html {font-family: 'Open Sans', sans-serif;}
+head,html {
+    height: 100%;
+}
+.hero-image {
+  height: 600px;
+  padding: px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #EA3D3D;
+}
+.inline-block {margin-left: 30px;
+    display: inline-block;
+    text-align: left;
+position: absolute;
+top: 15%;
+left: 10%;
+transform: translate(-85%, -90%);
+Color: #EA3D3D}
+nav {display: inline-block;
+   margin: 20px;
+   margin-left: 25px;}
+nav {display: inline-block;
+    margin: 20px
+    padding: 5px;
+    
+margin-left: auto;}
+#herop {font-size: 35px;}
+#title {color:#EA3D3D;
+position: absolute;
+text-align: center;}
+.sectionheader {text-align: left;
+color: #EA3D3D;
+margin-left: 25px;
+margin-top: 30px;
+padding: 15PX;}
+p {color: #2F5E63;
+Margin-left: 40px;
+margin-bottom: 30px;}
+.column {Margin-left: 70px;
+    float: left;
+    width: 25%;
+    padding: 5px;
+  }
+  .row {
+    display: flex;
+    content: "";
+    clear: both;
+    display: table;
+  }
+  footer {
+      color: #ffffff;
+      background-color: #2f5e63;
+  }
+  container {display: inline-block;
+padding: 25px;
+}
+      
+  
+ 

@@ -1,6 +1,12 @@
-html {font-family: 'Open Sans', sans-serif;}
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-family: 'Open Sans', sans-serif;}
 head,html {
-    height: 100%;
+  height: 100%;
 }
 .hero-image {
   height: 600px;
@@ -30,7 +36,7 @@ nav {display: inline-block;
    margin: 20px;
    margin-left: 25px;}
 nav {display: inline-block;
-    margin: 20px
+    margin: 20px;
     padding: 5px;
     
 margin-left: auto;}
@@ -40,13 +46,12 @@ position: absolute;
 text-align: center;}
 .sectionheader {text-align: left;
 color: #EA3D3D;
-margin-left: 25px;
-margin-top: 30px;
-padding: 15PX;}
+margin-bottom: 85px;
+}
 p {color: #2F5E63;
-Margin-left: 40px;
+margin-left: 40px;
 margin-bottom: 30px;}
-.column {Margin-left: 70px;
+.column {margin-left: 70px;
     float: left;
     width: 25%;
     padding: 5px;
@@ -64,6 +69,8 @@ margin-bottom: 30px;}
   container {display: inline-block;
 padding: 25px;
 }
-      
+.subject {
+  padding-left: 40px;
+}   
   
  
